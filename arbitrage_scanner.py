@@ -2,7 +2,7 @@
 """
 Automated Funding Rate & Arbitrage Scanner (Free Edition V2.0)
 -------------------------------------------------------------------
-Scans perpetual futures funding rates for major crypto pairs (BTC, ETH, SOL, XRP)
+Scans perpetual futures funding rates for major crypto pairs (BTC, ETH, SOL, XRP, ADA)
 via CCXT, identifies annualized yield (APY) opportunities, enforces spot market parity, 
 and dispatches real-time alerts with clean TradingView chart links to Telegram.
 """
@@ -65,7 +65,7 @@ def scan_funding_opportunities():
     require_spot = getattr(config, 'REQUIRE_SPOT_PARITY', True) if config else True
 
     # Free edition target pairs: Focus on core liquid markets including XRP
-    TARGET_ASSETS = {'BTC', 'ETH', 'SOL', 'XRP'}
+    TARGET_ASSETS = {'BTC', 'ETH', 'SOL', 'XRP', 'ADA'}
 
     # Minimum 24h trading volume threshold in USD
     MIN_VOLUME_USD = getattr(config, 'MIN_VOLUME_USD', 100000.0) if config else 100000.0
