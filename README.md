@@ -1,6 +1,6 @@
 # ⚡ Free Serverless Crypto Funding Rate Scanner
 
-A 100% free, lightweight Python script scanning perpetual funding rates for core crypto assets (**BTC, ETH, SOL, XRP**) on Kraken. Runs **24/7 for $0/mo** via GitHub Actions with instant Telegram notifications.
+A 100% free, lightweight Python script scanning perpetual funding rates for core crypto assets (**BTC, ETH, SOL, XRP, ADA**) on Kraken. Runs **24/7 for $0/mo** via GitHub Actions with instant Telegram notifications.
 
 ---
 
