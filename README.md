@@ -1,4 +1,4 @@
-## 🚀 Upgrade to PRO Version 
+## 🚀 Upgrade to PRO Version
 
 Need total market coverage and institutional-grade risk management beyond static pairs?
 
@@ -10,4 +10,4 @@ Check out **Kraken Funding Rate Scanner PRO**:
 * ⚠️ **Automated Rate Flip Alerts:** Detects sudden funding rate direction changes (sign flips) compared to 24h averages to protect your positions.
 * 📱 **Enhanced Telegram Alerts:** Rich HTML notifications with exact fee payback periods (in days) and direct TradingView chart links.
 
-👉 **[Get the PRO Version on Gumroad](https://namoralocode.gumroad.com/l/ultimate)**
+👉 **[Get the Funding Rate Scanner PRO on Gumroad](https://namoralocode.gumroad.com/l/funding-scanner)**
