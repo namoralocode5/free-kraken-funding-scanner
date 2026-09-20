@@ -1,8 +1,8 @@
-## 🚀 Upgrade to PRO Version (V2.0)
+## 🚀 Upgrade to PRO Version 
 
 Need total market coverage and institutional-grade risk management beyond static pairs?
 
-Check out **Kraken Funding Rate Scanner PRO V2.0**:
+Check out **Kraken Funding Rate Scanner PRO**:
 
 * 🪙 **Dynamic Full-Market Scanning:** Automatically discovers and screens all active perpetual & spot pairs on Kraken in real-time.
 * 📊 **True Net APY Calculation:** Calculates real, net yield after amortizing round-trip trading fees so you never enter unprofitable trades.
