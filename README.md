@@ -1,4 +1,7 @@
-# ⚡ Free Serverless Crypto Funding Rate Scanner
+# ⚡ Free Serverless Crypto Funding Rate Scanner V2.0
+
+> 💡 **Want updates or the Full-Market Version?**  
+> Grab this script or upgrade to PRO on [Gumroad](https://namoralocode.gumroad.com/).
 
 A 100% free, lightweight Python script scanning perpetual funding rates for core crypto assets (**BTC, ETH, SOL, XRP, ADA**) on Kraken. Runs **24/7 for $0/mo** via GitHub Actions with instant Telegram notifications.
 
@@ -18,13 +21,13 @@ A 100% free, lightweight Python script scanning perpetual funding rates for core
 
 ---
 
-## 🚀 Upgrade to the Full Suite
+## 🚀 Upgrade to PRO Version (V1.0)
 
-Need full-market coverage, global stock scanning, technical indicators, and backtesting? 
+Need total market coverage beyond the top 5 static pairs?
 
-Check out the **Ultimate All-in-One Market Scanner Suite V2.0**:
-- 📈 **Global Stocks Scanner V2.0** (ASML, Iberdrola, US Equities)
-- 🪙 **Crypto Multi-Pair & Multi-Exchange Engine**
-- 📊 **Portfolio Backtest Engine V1.0** (Generates local HTML reports)
+Check out **Kraken Funding Rate Scanner PRO V1.0**:
+- 🪙 **Dynamic Full-Market Scanning:** Automatically discovers all active perpetual & spot pairs on Kraken.
+- ⚡ **Advanced Arbitrage Filters:** Custom APY thresholds, liquidity screening, and automated fee-payback calculations.
+- 📱 **Enhanced Telegram Suite:** Rich HTML alerts with direct TradingView chart links.
 
-👉 **[Get the Full Source Code Suite on Gumroad](https://namoralocode.gumroad.com/l/ultimate)**
+👉 **[Get the PRO Version on Gumroad](https://namoralocode.gumroad.com/)**
